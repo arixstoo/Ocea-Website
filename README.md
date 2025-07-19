@@ -36,25 +36,6 @@ A modern, responsive website for OCEA — an aquaculture intelligence platform. 
    ```
    Open [http://localhost:3000](http://localhost:3000) to view the site.
 
-## 🌐 Deployment
-
-Deploy easily to [Vercel](https://vercel.com/) (recommended for Next.js):
-1. Push your code to GitHub.
-2. Go to [vercel.com](https://vercel.com/), import your repo, and deploy.
-
-Or deploy to [Netlify](https://www.netlify.com/) or your preferred static host.
-
-## 🤝 Contributing
-
-Contributions are welcome! To propose changes:
-1. Fork the repo
-2. Create a new branch
-3. Make your changes
-4. Open a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
